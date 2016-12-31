@@ -7,6 +7,7 @@ face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
 
+# Using the device's default camera for video capture.
 cap = cv2.VideoCapture(0)
 
 # detection and drawing rectangles
