@@ -1,4 +1,4 @@
-# Haar Cascade Object Detection
+# Haar Cascade Anime Face Detection
 import cv2
 import numpy as np
 
@@ -12,6 +12,7 @@ img = cv2.imread('anime.jpg')
 
 # detection and drawing rectangles
 while True:
+    #converting the image to grayscale for easier processing.
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     faces = face_cascade.detectMultiScale(gray, 1.3, 5)
     for (x, y, w, h) in faces:
