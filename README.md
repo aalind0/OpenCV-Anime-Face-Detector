@@ -11,5 +11,3 @@ Here are a few screenshots -
 
 ![Alt text](/Image Face Detector/result_2.JPG "Resulting image after feature detection.")
 
-
-![Alt text](/Video Face and Eye feature detector/result_1.JPG "Features detected in the live webcam video feed.")
