@@ -3,6 +3,7 @@ Using OpenCV to detect and mark face and eye features in videos and images. Anim
 
 Here are a few screenshots -
 ------------------------------------
+
 ![Alt text](/Anime Face Detector/result.JPG "Anime faces being detected.")
 
 
@@ -10,4 +11,3 @@ Here are a few screenshots -
 
 
 ![Alt text](/Image Face Detector/result_2.JPG "Resulting image after feature detection.")
-
