@@ -4,7 +4,7 @@ Using OpenCV to detect and mark face and eye features in videos and images. Anim
 Here are a few screenshots -
 ------------------------------------
 
-![Alt text](/Anime Face Detector/result.JPG "Anime faces being detected.")
+![Alt text](https://github.com/aalind0/OpenCV-Anime-Face-Detector/blob/master/Anime%20Face%20Detector/result.JPG "Anime faces being detected.")
 
 
 ![Alt text](/Image Face Detector/image.jpg "Test Image.")
