@@ -7,7 +7,5 @@ Here are a few screenshots -
 ![Alt text](https://github.com/aalind0/OpenCV-Anime-Face-Detector/blob/master/Anime%20Face%20Detector/result.JPG "Anime faces being detected.")
 
 
-![Alt text](/Image Face Detector/image.jpg "Test Image.")
 
-
-![Alt text](/Image Face Detector/result_2.JPG "Resulting image after feature detection.")
+![Alt text](https://github.com/aalind0/OpenCV-Anime-Face-Detector/blob/master/Image%20Face%20Detector/result_2.JPG "Resulting image after feature detection.")
